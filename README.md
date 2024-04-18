@@ -78,7 +78,7 @@ sudo –I
 - service nginx status
 - echo “hello from $(hostname)” > /var/www/html/index.html
 - curl localhost  
-	#same on the second subnet instance
+	
 
 ![Screenshot 2024-03-18 043746](https://github.com/Tanay03Trivedi/VPC-project/assets/160705084/a92e2116-9291-4312-8526-c04728bc4dcd)
 ![Screenshot 2024-03-18 043754](https://github.com/Tanay03Trivedi/VPC-project/assets/160705084/6e63334c-a929-467e-89c0-c05e1db2bc50)
