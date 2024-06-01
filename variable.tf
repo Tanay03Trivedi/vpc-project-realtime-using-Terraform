@@ -5,7 +5,7 @@ variable "aws_region" {
 }
 
 variable "instance_type" {
-  description = "Region in which AWS resources to be created"
+  description = "Type of Instance resources to be created"
   type        = string
   default     = "t2.micro"
 }
